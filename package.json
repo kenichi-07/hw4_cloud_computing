@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cpu-features": "^0.0.9"
+  }
+}
